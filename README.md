@@ -27,7 +27,6 @@ minigit_project/
 │       └── status.py     # Scans working directory for modified/untracked changes
 └── setup.py              # Packaging configuration script
 
-Use code with caution.
 
   Core Systems Logic Implemented
 
